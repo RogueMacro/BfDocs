@@ -1,2 +1,2 @@
-vscode/
-*.bf
+.vscode/
+__pycache__/
